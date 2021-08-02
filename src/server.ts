@@ -1,12 +1,10 @@
-import express from "express";
-import { firstRoute } from "./routes/firstRoute";
-// import 'dotenv/config';
-// const PORT = process.env.APP_PORT;
+import express from 'express';
+import routes from './routes';
 
 const app = express();
 
-app.get("/", firstRoute);
+app.use(routes);
 
 app.listen(3333, () => {
-  console.log(`O SERVIDOR ESTÁ RODANDO NA PORTA 3333`);
+  console.log('O SERVIDOR ESTÁ RODANDO NA PORTA 3333');
 });
