@@ -44,7 +44,7 @@ https://github.com/eliasfernandesbr/backend-app.git
        yarn start dev:server
     ```    
  <img src= https://img.shields.io/badge/PROJECT-RUN-green/> 
- The project will run on localhost:5000
+ The project will run on localhost:3333
 
 ---
 
