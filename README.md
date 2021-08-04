@@ -39,9 +39,9 @@ https://github.com/eliasfernandesbr/backend-app.git
 - Run project; 
 
   - ```javascript
-       npm start
+       npm start dev:server
        //or
-       yarn start
+       yarn start dev:server
     ```    
  <img src= https://img.shields.io/badge/PROJECT-RUN-green/> 
  The project will run on localhost:5000
