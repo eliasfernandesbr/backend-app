@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/eliasfernandesbr/desafio-boxgroup?color=orange&logo=GitHub)
 ![GitHub last commit](https://img.shields.io/github/last-commit/eliasfernandesbr/desafio-boxgroup)
-<a href="https://desafio-groupbox.herokuapp.com/" target="_blank">
+<a href="https://heroku.com" target="_blank">
   <img alt="Made by Elias Fernandes" src="https://img.shields.io/badge/-Deploy Link-blueviolet?logo=Heroku&logoColor=white" />
   </a>
  <a href="https://www.linkedin.com/in/fernandesnetobr/" target="_blank">
@@ -20,7 +20,7 @@
 - Clone this repo to your local machine using:
 
 ```
-https://github.com/eliasfernandesbr/desafio-boxgroup.git
+https://github.com/eliasfernandesbr/backend-app.git
 ```
 
 ### Setup
